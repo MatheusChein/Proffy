@@ -7,6 +7,18 @@ App created during the Next Level Week event hosted by Rocketseat.
 
 Proffy is a platform to bring together students who want to learn high school subjects and teachers who can give those classes.
 
+### Web app
+
+<h1 align="center">
+    <img alt="Web" src=".github/Proffy-web.gif" width="900px">
+</h1>
+
+### Mobile app
+
+<h1 align="center">
+    <img alt="Web" src=".github/WhatsApp Video 2020-08-09 at 18.31.38.gif">
+</h1>
+
 ## :rocket: Run the app
 
 To run on your computer, you need:
