@@ -7,13 +7,14 @@ App created during the Next Level Week event hosted by Rocketseat.
 
 Proffy is a platform to bring together students who want to learn high school subjects and teachers who can give those classes.
 
-### Web app
+
+<h3 align="center"> :computer: Web app </h3>
 
 <h1 align="center">
     <img alt="Web" src=".github/Proffy-web.gif" width="900px">
 </h1>
 
-### Mobile app
+<h3 align="center"> :iphone: Mobile app </h3>
 
 <h1 align="center">
     <img alt="Web" src=".github/WhatsApp Video 2020-08-09 at 18.31.38.gif">
@@ -98,6 +99,10 @@ To run on your computer, you need:
 <li>Ternary Conditioning</li>
 <li>Import / Export statements</li>
 </ul>
+
+## :memo: License
+
+This project is under the MIT license. Check out the [LICENSE](LICENSE.md) file for further details.
 
 ## :briefcase: Contact me <br>
 
