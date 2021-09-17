@@ -1,8 +1,6 @@
 
 # Proffy
 
-App created during the Next Level Week event hosted by Rocketseat.
-
 ## :black_nib: About the app
 
 Proffy is a platform to bring together students who want to learn high school subjects and teachers who can give those classes.
